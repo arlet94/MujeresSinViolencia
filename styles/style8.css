@@ -1,0 +1,100 @@
+
+body {
+    background-color: white;
+    
+    height: 1000px;
+    width: 1200px;
+}
+
+
+header {
+    list-style-type: square;
+    height: 10px;
+	width: 1200px;
+    float:initial;
+    color:white;
+    font-family: cursive;
+    font-size:15pt;
+    text-align: right;
+    margin: 0;
+    padding: 1%;
+
+
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    background-color: darksalmon;
+    font-size: 60px;
+    border-radius: 10pt;
+    height: 100px;
+	width: 1200px;
+    margin: 0;
+    padding: 5%;
+
+}
+
+
+h2 {
+    font-size: 25px;
+    text-align: right;
+    font-family:fantasy;
+    margin: 0;
+    padding: 2%;
+  
+}
+
+
+
+p{
+    color:black;
+    text-align: justify;
+    float:right;
+    height: 800px;
+    width: 600px;
+    margin: 0;
+    padding: 2%;
+}
+
+
+
+
+img {
+    float:left;
+    height: 350px;
+	width: 350px;
+    margin: 7%;
+    padding: 1%;
+    
+
+}
+
+footer {
+    float:left;
+    height: 40px;
+	width: 1200px;
+    margin: 1%;
+    padding: 2%;
+    background-color: thistle;
+  
+    
+
+}
+
+
+
+
+    
+
+ 
+    
+    
+
+
+
+
+
+
+
